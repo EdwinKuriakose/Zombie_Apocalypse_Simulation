@@ -2,6 +2,15 @@
 
 
 
+This code was generated to check how an infection spreads when an infected person comes in contact with a non-infected person. Some of the factors which are used here include the number of zombies (for this code, there is only one infected person initially), the chance of the zombie disease spreading, and immunity of a non-infected person.
+
+
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/87228644/151028284-a927ff68-f333-4760-aac3-5557994a89cd.png)
 
